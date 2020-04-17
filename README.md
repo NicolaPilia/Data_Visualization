@@ -1,15 +1,9 @@
 # Data_Visualization
 ## Header 1
-  1.**fafa**
-  2.aawf
-  3.afadf
+![Image1](image_pandas.jpg)
 
 ### Header 2
-  *qgrw
-  *areqrg 
-  *rag
-  
- ![My_Image1](img1.jpg)
+![Image2](image_pandas_pie.jpg)
 
 #### Header 3
 vergvagagag
