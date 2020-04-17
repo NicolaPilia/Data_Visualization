@@ -6,8 +6,6 @@
 ![Image2](image_pandas_pie.jpg)
 
 #### Header 3
-vergvagagag
->rfqrgqrgq
 
 ```
 import pandas as pd
