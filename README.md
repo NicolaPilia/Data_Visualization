@@ -1,3 +1,3 @@
 # Data_Visualization Book
 
-- [Seaborn tutorial](seaborn.html)
+- [Seaborn tutorial](Seaborn.html)
