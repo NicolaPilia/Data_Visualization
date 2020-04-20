@@ -1,16 +1,3 @@
-# Data_Visualization
-## Header 1
-![Image1](image_pandas.jpg)
+# Data_Visualization Book
 
-### Header 2
-![Image2](image_pandas_pie.jpg)
-
-#### Header 3
-
-```
-import pandas as pd
-pd
-
-```
-
-
+- [Seaborn tutorial(seaborn.html)]
